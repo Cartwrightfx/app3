@@ -1,0 +1,22 @@
+
+.nv {
+    background: radial-gradient(circle, rgb(15, 2, 2), black, rgb(17, 14, 14));
+    margin: 0;
+    height: 3rem;
+}  
+.na{
+    color: white;
+    font-style: italic;
+    font-weight: 500;
+    margin: 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+.na .nan{
+    list-style: none;
+    margin-top: 0.7rem;
+}
+#nav-link{
+    color: white;
+    text-decoration: none;
+}

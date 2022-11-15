@@ -1,0 +1,38 @@
+#pto{
+    margin: 0;
+    background: radial-gradient(circle, rgba(5, 12, 56, 0.98), rgba(10, 10, 10, 0.98));
+    color: white;
+    height: 105vh;
+
+}
+#pto h2{
+    padding-left: 7rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-weight: 500;
+    font-size: 2rem;
+
+}
+#pto .ptr1{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 1rem;
+}
+#pto .pt1{
+    margin-top: 1rem;
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 13rem;
+    height: 10rem;
+    box-shadow: 12px 12px 8px black,
+                -5px -5px 12px rgb(211, 223, 228);
+
+}
+button{
+    position: relative;
+    color:white;
+    background-color: rgba(17, 20, 37, 0.98);
+}
+button:hover{
+    opacity: 0.5;
+}

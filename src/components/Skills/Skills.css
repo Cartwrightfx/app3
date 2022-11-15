@@ -1,0 +1,32 @@
+#skl{
+    background: radial-gradient(circle, rgba(5, 12, 56, 0.98), rgba(10, 10, 10, 0.98));
+    color: white;
+    height: 72vh;
+}
+.col-lg-8 p{
+    margin: 0;
+    padding: 2rem;
+}
+.col-lg-8 h3{
+    margin-top: 0;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 2rem;
+}
+.row-mt-3{
+    display: flex;
+    justify-content: space-evenly;
+}
+.col-md-6{
+    margin-top: 1rem;
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 13rem;
+    height: 10rem;
+    box-shadow: 12px 12px 8px black,
+                -5px -5px 12px rgb(211, 223, 228);
+}
+.col-md-6 ul{
+    list-style: none;
+    padding-left: 0;
+}

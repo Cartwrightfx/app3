@@ -1,0 +1,11 @@
+#abt{
+    background: url('/src/ReadyPlayerMe-Avatar.png') no-repeat;
+    background-size: cover;
+    min-height: 95vh;
+    margin: 0;
+}
+h2{
+    margin: 0;
+    max-width: 17rem;
+    padding-top: 4rem;
+}

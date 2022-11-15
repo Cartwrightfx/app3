@@ -1,0 +1,42 @@
+.con1{
+    margin: 0;
+    position: relative;
+    top: 2.5rem;
+    height: 5rem;
+    width: 90%;
+}
+h1{
+    margin: 0;
+    position: relative;
+    left: 1.5rem;
+}
+#bt{
+    position: relative;
+    left: 1.5rem;
+    width: 4rem;
+}
+#bt:hover{
+    opacity: 0.5;
+}
+
+ #em{
+    padding: 11px;
+}
+#me{
+    position: relative;
+    top: -6rem;
+    left: -1rem;
+}
+input{
+    margin: 0.5rem;
+}
+ #Email{
+    height: 1.5rem;
+    width: 50%;
+    font-size: 0.9rem;
+}
+#Message{
+    height: 7rem;
+    width: 50%;
+    font-size: 1rem;
+}
